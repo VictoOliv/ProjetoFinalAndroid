@@ -1,0 +1,4 @@
+# Mantém o gradlew executável em Linux/macOS e o .bat com CRLF no Windows.
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
