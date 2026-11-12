@@ -77,5 +77,5 @@ com.estudaai
 ├─ network        NvidiaApi (Retrofit) e RetrofitInstance
 ├─ data           data classes, Room (Usuario, Anotacao, Daos, AppDatabase), SessaoManager e Repositories
 ├─ viewmodel      AuthViewModel, EstudoViewModel, AnotacoesViewModel e seus estados
-└─ userinterface  telas Compose, Rotas, navegação, tema e MainActivity
+└─ userinterface  telas Compose, Rotas, navegação, tema e MainActivity.
 ```
